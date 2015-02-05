@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'laravel_student_db',
-			'username'  => 'root',
-			'password'  => 'password',
+			'database'  => 'php',
+			'username'  => 'adminxveVs5y',
+			'password'  => 'bTHvfE-EAewQ',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
